@@ -1,1 +1,1 @@
--  HELLO WELCOME
+-  HURRY UP!
