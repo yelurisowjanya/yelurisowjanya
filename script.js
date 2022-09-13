@@ -1,4 +1,4 @@
-function validateAge(today, dobobj) {
+ function validateAge(today, dobobj) {
   var age = today.getFullYear() - dobobj.getFullYear();
   var m = today.getMonth() - dobobj.getMonth();
   if (m < 0 || (m === 0 && today.getDate() < dobobj.getDate())) {
